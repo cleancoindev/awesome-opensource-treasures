@@ -1,2 +1,2 @@
-# Awesome Open-Source
+# Awesome OpenSource Treasure
 A beautiful collection of open-source.
