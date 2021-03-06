@@ -43,3 +43,6 @@
 [submodule "client/react/react-tools/react-select"]
 	path = client/react/react-tools/react-select
 	url = git@github.com:JedWatson/react-select.git
+[submodule "client/react/react-tools/evergreen"]
+	path = client/react/react-tools/evergreen
+	url = git@github.com:segmentio/evergreen.git
