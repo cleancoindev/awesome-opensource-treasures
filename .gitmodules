@@ -1,3 +1,6 @@
 [submodule "client/react/typescript/management/takenote"]
 	path = client/react/typescript/management/takenote
 	url = git@github.com:taniarascia/takenote.git
+[submodule "client/react/javascript/management/todoist"]
+	path = client/react/javascript/management/todoist
+	url = git@github.com:karlhadwen/todoist.git
