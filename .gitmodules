@@ -37,3 +37,6 @@
 [submodule "client/react/react-tools/unstated"]
 	path = client/react/react-tools/unstated
 	url = git@github.com:jamiebuilds/unstated.git
+[submodule "client/react/react-tools/react-bootstrap"]
+	path = client/react/react-tools/react-bootstrap
+	url = git@github.com:react-bootstrap/react-bootstrap.git
