@@ -1,3 +1,3 @@
-[submodule "contracts/dependencies/renascent-token"]
-	path = contracts/dependencies/renascent-token
-	url = git@github.com:Rena-Finance/renascent-token.git
+[submodule "client/react/takenote"]
+	path = client/react/takenote
+	url = git@github.com:taniarascia/takenote.git
