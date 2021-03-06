@@ -13,3 +13,6 @@
 [submodule "client/react/javascript/editor/write-with-me"]
 	path = client/react/javascript/editor/write-with-me
 	url = git@github.com:dabit3/write-with-me.git
+[submodule "client/react/javascript/management/jira_clone"]
+	path = client/react/javascript/management/jira_clone
+	url = git@github.com:oldboyxx/jira_clone.git
