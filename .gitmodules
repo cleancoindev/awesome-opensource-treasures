@@ -25,3 +25,6 @@
 [submodule "client/react/javascript/social/github-profile-readme-generator"]
 	path = client/react/javascript/social/github-profile-readme-generator
 	url = git@github.com:rahuldkjain/github-profile-readme-generator.git
+[submodule "client/react/typescript/torrent/moose"]
+	path = client/react/typescript/torrent/moose
+	url = git@github.com:ritz078/moose.git
