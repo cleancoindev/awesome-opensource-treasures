@@ -52,3 +52,6 @@
 [submodule "client/react/react-resources-repos/reactjs-open-source"]
 	path = client/react/react-resources-repos/reactjs-open-source
 	url = git@github.com:Mybridge/reactjs-open-source.git
+[submodule "client/react/react-tools/after.js"]
+	path = client/react/react-tools/after.js
+	url = git@github.com:jaredpalmer/after.js.git
