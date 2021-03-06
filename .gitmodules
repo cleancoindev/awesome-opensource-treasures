@@ -40,3 +40,6 @@
 [submodule "client/react/react-tools/react-bootstrap"]
 	path = client/react/react-tools/react-bootstrap
 	url = git@github.com:react-bootstrap/react-bootstrap.git
+[submodule "client/react/react-tools/react-select"]
+	path = client/react/react-tools/react-select
+	url = git@github.com:JedWatson/react-select.git
