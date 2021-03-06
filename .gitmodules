@@ -46,3 +46,6 @@
 [submodule "client/react/react-tools/evergreen"]
 	path = client/react/react-tools/evergreen
 	url = git@github.com:segmentio/evergreen.git
+[submodule "client/react/react-tools/react-spring"]
+	path = client/react/react-tools/react-spring
+	url = git@github.com:pmndrs/react-spring.git
