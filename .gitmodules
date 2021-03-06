@@ -19,3 +19,6 @@
 [submodule "client/react/javascript/social/spectrum"]
 	path = client/react/javascript/social/spectrum
 	url = git@github.com:withspectrum/spectrum.git
+[submodule "server/node/javascript/social/spectrum"]
+	path = server/node/javascript/social/spectrum
+	url = git@github.com:withspectrum/spectrum.git
