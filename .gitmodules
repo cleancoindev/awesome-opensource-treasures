@@ -10,3 +10,6 @@
 [submodule "client/react/typescript/management/tomato-work"]
 	path = client/react/typescript/management/tomato-work
 	url = git@github.com:xjh22222228/tomato-work.git
+[submodule "client/react/javascript/editor/write-with-me"]
+	path = client/react/javascript/editor/write-with-me
+	url = git@github.com:dabit3/write-with-me.git
