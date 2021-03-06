@@ -49,3 +49,6 @@
 [submodule "client/react/react-tools/react-spring"]
 	path = client/react/react-tools/react-spring
 	url = git@github.com:pmndrs/react-spring.git
+[submodule "client/react/react-resources-repos/reactjs-open-source"]
+	path = client/react/react-resources-repos/reactjs-open-source
+	url = git@github.com:Mybridge/reactjs-open-source.git
