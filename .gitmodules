@@ -31,3 +31,6 @@
 [submodule "client/react/javascript/education/courselit"]
 	path = client/react/javascript/education/courselit
 	url = git@github.com:codelitdev/courselit.git
+[submodule "client/react/javascript/finance/fireact"]
+	path = client/react/javascript/finance/fireact
+	url = git@github.com:chaoming/fireact.git
