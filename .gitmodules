@@ -1,3 +1,0 @@
-[submodule "client/react/takenote"]
-	path = client/react/takenote
-	url = git@github.com:taniarascia/takenote.git
