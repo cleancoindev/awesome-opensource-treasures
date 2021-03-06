@@ -28,3 +28,6 @@
 [submodule "client/react/typescript/torrent/moose"]
 	path = client/react/typescript/torrent/moose
 	url = git@github.com:ritz078/moose.git
+[submodule "client/react/javascript/education/courselit"]
+	path = client/react/javascript/education/courselit
+	url = git@github.com:codelitdev/courselit.git
