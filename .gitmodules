@@ -22,3 +22,6 @@
 [submodule "server/node/javascript/social/spectrum"]
 	path = server/node/javascript/social/spectrum
 	url = git@github.com:withspectrum/spectrum.git
+[submodule "client/react/javascript/social/github-profile-readme-generator"]
+	path = client/react/javascript/social/github-profile-readme-generator
+	url = git@github.com:rahuldkjain/github-profile-readme-generator.git
