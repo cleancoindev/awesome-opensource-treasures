@@ -85,3 +85,6 @@
 [submodule "client/react/react-tools/state-management/unstated"]
 	path = client/react/react-tools/state-management/unstated
 	url = git@github.com:jamiebuilds/unstated.git
+[submodule "client/react/react-tools/editor/rekit"]
+	path = client/react/react-tools/editor/rekit
+	url = git@github.com:rekit/rekit.git
