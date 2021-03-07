@@ -88,3 +88,6 @@
 [submodule "client/react/react-tools/editor/rekit"]
 	path = client/react/react-tools/editor/rekit
 	url = git@github.com:rekit/rekit.git
+[submodule "client/react/typescript/url-shortener/kutt"]
+	path = client/react/typescript/url-shortener/kutt
+	url = git@github.com:thedevs-network/kutt.git
