@@ -79,3 +79,6 @@
 [submodule "mobile/react-native/react-native-tools/gesture/react-native-gesture-handler"]
 	path = mobile/react-native/react-native-tools/gesture/react-native-gesture-handler
 	url = git@github.com:software-mansion/react-native-gesture-handler.git
+[submodule "client/react/react-tools/components/react-select"]
+	path = client/react/react-tools/components/react-select
+	url = git@github.com:JedWatson/react-select.git
