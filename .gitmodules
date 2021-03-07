@@ -76,3 +76,6 @@
 [submodule "client/react/react-tools/styling/styled-components"]
 	path = client/react/react-tools/styling/styled-components
 	url = git@github.com:styled-components/styled-components.git
+[submodule "mobile/react-native/react-native-tools/gesture/react-native-gesture-handler"]
+	path = mobile/react-native/react-native-tools/gesture/react-native-gesture-handler
+	url = git@github.com:software-mansion/react-native-gesture-handler.git
