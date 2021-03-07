@@ -55,3 +55,9 @@
 [submodule "client/react/react-tools/after.js"]
 	path = client/react/react-tools/after.js
 	url = git@github.com:jaredpalmer/after.js.git
+[submodule "client/react/typescript/management/docusaurus"]
+	path = client/react/typescript/management/docusaurus
+	url = git@github.com:facebook/docusaurus.git
+[submodule "client/react/react-tools/state-management/react-easy-state"]
+	path = client/react/react-tools/state-management/react-easy-state
+	url = git@github.com:RisingStack/react-easy-state.git
