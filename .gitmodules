@@ -73,3 +73,6 @@
 [submodule "client/react/react-tools/starter/React-Redux-Sass-Starter"]
 	path = client/react/react-tools/starter/React-Redux-Sass-Starter
 	url = git@github.com:Gigacore/React-Redux-Sass-Starter.git
+[submodule "client/react/react-tools/styling/styled-components"]
+	path = client/react/react-tools/styling/styled-components
+	url = git@github.com:styled-components/styled-components.git
