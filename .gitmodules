@@ -82,3 +82,6 @@
 [submodule "client/react/react-tools/components/react-select"]
 	path = client/react/react-tools/components/react-select
 	url = git@github.com:JedWatson/react-select.git
+[submodule "client/react/react-tools/state-management/unstated"]
+	path = client/react/react-tools/state-management/unstated
+	url = git@github.com:jamiebuilds/unstated.git
