@@ -64,3 +64,6 @@
 [submodule "client/react/react-tools/state-management/undux"]
 	path = client/react/react-tools/state-management/undux
 	url = git@github.com:bcherny/undux.git
+[submodule "client/react/react-tools/wordpress/create-guten-block"]
+	path = client/react/react-tools/wordpress/create-guten-block
+	url = git@github.com:ahmadawais/create-guten-block.git
