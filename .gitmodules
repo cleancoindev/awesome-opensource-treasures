@@ -61,3 +61,6 @@
 [submodule "client/react/react-tools/state-management/react-easy-state"]
 	path = client/react/react-tools/state-management/react-easy-state
 	url = git@github.com:RisingStack/react-easy-state.git
+[submodule "client/react/react-tools/state-management/undux"]
+	path = client/react/react-tools/state-management/undux
+	url = git@github.com:bcherny/undux.git
