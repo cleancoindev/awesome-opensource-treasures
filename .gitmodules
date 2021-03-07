@@ -91,3 +91,6 @@
 [submodule "client/react/typescript/url-shortener/kutt"]
 	path = client/react/typescript/url-shortener/kutt
 	url = git@github.com:thedevs-network/kutt.git
+[submodule "server/node/typescript/url-shortener/kutt"]
+	path = server/node/typescript/url-shortener/kutt
+	url = git@github.com:thedevs-network/kutt.git
