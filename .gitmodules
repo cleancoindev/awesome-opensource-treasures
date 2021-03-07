@@ -1,37 +1,37 @@
-[submodule "client/react/javascript/management/todoist"]
-	path = client/react/javascript/management/todoist
+[submodule "client/react/react-projects/javascript/management/todoist"]
+	path = client/react/react-projects/javascript/management/todoist
 	url = git@github.com:karlhadwen/todoist.git
-[submodule "client/react/javascript/finance/mortgage"]
-	path = client/react/javascript/finance/mortgage
+[submodule "client/react/react-projects/javascript/finance/mortgage"]
+	path = client/react/react-projects/javascript/finance/mortgage
 	url = git@github.com:paulhoughton/mortgage.git
-[submodule "client/react/typescript/management/takenote"]
-	path = client/react/typescript/management/takenote
+[submodule "client/react/react-projects/typescript/management/takenote"]
+	path = client/react/react-projects/typescript/management/takenote
 	url = git@github.com:taniarascia/takenote.git
-[submodule "client/react/typescript/management/tomato-work"]
-	path = client/react/typescript/management/tomato-work
+[submodule "client/react/react-projects/typescript/management/tomato-work"]
+	path = client/react/react-projects/typescript/management/tomato-work
 	url = git@github.com:xjh22222228/tomato-work.git
-[submodule "client/react/javascript/editor/write-with-me"]
-	path = client/react/javascript/editor/write-with-me
+[submodule "client/react/react-projects/javascript/editor/write-with-me"]
+	path = client/react/react-projects/javascript/editor/write-with-me
 	url = git@github.com:dabit3/write-with-me.git
-[submodule "client/react/javascript/management/jira_clone"]
-	path = client/react/javascript/management/jira_clone
+[submodule "client/react/react-projects/javascript/management/jira_clone"]
+	path = client/react/react-projects/javascript/management/jira_clone
 	url = git@github.com:oldboyxx/jira_clone.git
-[submodule "client/react/javascript/social/spectrum"]
-	path = client/react/javascript/social/spectrum
+[submodule "client/react/react-projects/javascript/social/spectrum"]
+	path = client/react/react-projects/javascript/social/spectrum
 	url = git@github.com:withspectrum/spectrum.git
-[submodule "server/node/javascript/social/spectrum"]
-	path = server/node/javascript/social/spectrum
+[submodule "server/node/react-projects/javascript/social/spectrum"]
+	path = server/node/react-projects/javascript/social/spectrum
 	url = git@github.com:withspectrum/spectrum.git
-[submodule "client/react/javascript/social/github-profile-readme-generator"]
-	path = client/react/javascript/social/github-profile-readme-generator
+[submodule "client/react/react-projects/javascript/social/github-profile-readme-generator"]
+	path = client/react/react-projects/javascript/social/github-profile-readme-generator
 	url = git@github.com:rahuldkjain/github-profile-readme-generator.git
-[submodule "client/react/typescript/torrent/moose"]
+[submodule "client/react/react-projects/typescript/torrent/moose"]
 	path = client/react/typescript/torrent/moose
 	url = git@github.com:ritz078/moose.git
-[submodule "client/react/javascript/education/courselit"]
+[submodule "client/react/react-projects/javascript/education/courselit"]
 	path = client/react/javascript/education/courselit
 	url = git@github.com:codelitdev/courselit.git
-[submodule "client/react/javascript/finance/fireact"]
+[submodule "client/react/react-projects/javascript/finance/fireact"]
 	path = client/react/javascript/finance/fireact
 	url = git@github.com:chaoming/fireact.git
 [submodule "client/react/react-tools/unstated"]
@@ -55,8 +55,8 @@
 [submodule "client/react/react-tools/after.js"]
 	path = client/react/react-tools/after.js
 	url = git@github.com:jaredpalmer/after.js.git
-[submodule "client/react/typescript/management/docusaurus"]
-	path = client/react/typescript/management/docusaurus
+[submodule "client/react/react-projects/typescript/management/docusaurus"]
+	path = client/react/react-projects/typescript/management/docusaurus
 	url = git@github.com:facebook/docusaurus.git
 [submodule "client/react/react-tools/state-management/react-easy-state"]
 	path = client/react/react-tools/state-management/react-easy-state
@@ -88,12 +88,12 @@
 [submodule "client/react/react-tools/editor/rekit"]
 	path = client/react/react-tools/editor/rekit
 	url = git@github.com:rekit/rekit.git
-[submodule "client/react/typescript/url-shortener/kutt"]
-	path = client/react/typescript/url-shortener/kutt
+[submodule "client/react/react-projects/typescript/url-shortener/kutt"]
+	path = client/react/react-projects/typescript/url-shortener/kutt
 	url = git@github.com:thedevs-network/kutt.git
 [submodule "server/node/typescript/url-shortener/kutt"]
 	path = server/node/typescript/url-shortener/kutt
 	url = git@github.com:thedevs-network/kutt.git
-[submodule "client/react/typescript/editor/proton-native"]
-	path = client/react/typescript/editor/proton-native
+[submodule "client/react/react-projects/typescript/editor/proton-native"]
+	path = client/react/react-projects/typescript/editor/proton-native
 	url = git@github.com:kusti8/proton-native.git
